@@ -70,24 +70,7 @@ const luis = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisdandolini&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdandolini&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-
-</div>
-
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=luisdandolini&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=luisdandolini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luisdandolini&theme=tokyo-night&hide_border=true&area=true&color=70a5fd&line=bf91f3&point=38bdae)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -103,6 +86,8 @@ const luis = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luisdandolini&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luisdandolini&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luisdandolini&theme=tokyonight&utcOffset=-3" />
+
+<br/>
 
 </div>
 
