@@ -87,7 +87,7 @@ const luis = {
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=luisdandolini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=luisdandolini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" />
 
 </div>
 
@@ -97,16 +97,13 @@ const luis = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luisdandolini&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisdandolini&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<br/>
-
-[![GitHub Skyline](https://img.shields.io/badge/🏙️%20View%20my%20GitHub%20Skyline%203D-000000?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/luisdandolini/2026)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercer.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luisdandolini&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luisdandolini&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luisdandolini&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luisdandolini&theme=tokyonight&utcOffset=-3" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
