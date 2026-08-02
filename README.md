@@ -87,8 +87,6 @@ const luis = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luisdandolini&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luisdandolini&theme=tokyonight&utcOffset=-3" />
 
-<br/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
